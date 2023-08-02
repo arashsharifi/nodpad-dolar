@@ -1,0 +1,8 @@
+@import"./reset.css";
+
+:root {
+    --primary: rgb(62, 156, 228);
+    --secondery: #6c5ce7;
+    --terinary: #00cec9;
+    --dark: #040506;
+}
